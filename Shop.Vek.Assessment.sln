@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Vek.Assessment.Tests", "Shop.Vek.Assessment.Tests\Shop.Vek.Assessment.Tests.csproj", "{BC332C5F-2572-4833-BC13-CEB6238AADF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Vek.Assessment.Pages", "Shop.Vek.Assessment.Pages\Shop.Vek.Assessment.Pages.csproj", "{F87D1E9F-C87C-4762-9619-9EFBE0C0D2D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Vek.Assessment.Steps", "Shop.Vek.Assessment.Steps\Shop.Vek.Assessment.Steps.csproj", "{27663B07-15BF-46DD-989F-1B0275ED8064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC332C5F-2572-4833-BC13-CEB6238AADF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC332C5F-2572-4833-BC13-CEB6238AADF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC332C5F-2572-4833-BC13-CEB6238AADF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC332C5F-2572-4833-BC13-CEB6238AADF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F87D1E9F-C87C-4762-9619-9EFBE0C0D2D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87D1E9F-C87C-4762-9619-9EFBE0C0D2D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87D1E9F-C87C-4762-9619-9EFBE0C0D2D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87D1E9F-C87C-4762-9619-9EFBE0C0D2D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27663B07-15BF-46DD-989F-1B0275ED8064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27663B07-15BF-46DD-989F-1B0275ED8064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27663B07-15BF-46DD-989F-1B0275ED8064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27663B07-15BF-46DD-989F-1B0275ED8064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
